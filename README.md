@@ -36,7 +36,7 @@ Anything older lives in [HISTORICAL.md](HISTORICAL.md), together with the archiv
 
 <img src="https://raw.githubusercontent.com/jupyter/design/main/logos/Favicon/favicon.svg" height="14" alt="Project Jupyter"> marks a project maintained by [Project Jupyter](https://jupyter.org/governance/list_of_subprojects.html), in one of its official GitHub organisations.
 
-🪐 marks a project in [jupyter-ai-contrib](https://github.com/jupyter-ai-contrib), the community organisation where Jupyter AI v3 is built as separate packages. It is not under Project Jupyter governance. Its [team compass](https://github.com/jupyter-ai-contrib/team-compass) has the meeting notes.
+🪐 marks a project in [jupyter-ai-contrib](https://github.com/jupyter-ai-contrib), the community organisation where Jupyter AI v3 is built as separate packages. It is not under Project Jupyter governance.
 
 Star counts in the table are for orientation only. Read the licence before you depend on an extension: Notebook Intelligence is GPL-3.0, and several entries have an open licence but no public repository.
 
