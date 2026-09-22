@@ -259,3 +259,9 @@ These are not JupyterLab extensions. They are command line tools, magics and mod
 ## Contributing
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) first. It has the listing criteria, including what is deliberately left out, how an entry gets its marker, and how the list was assembled.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
