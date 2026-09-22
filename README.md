@@ -192,7 +192,7 @@ Plugins and libraries to build on. Few of them do anything on their own, and Jup
 - [🪐 jupyter-ai-chat-commands](https://github.com/jupyter-ai-contrib/jupyter-ai-chat-commands) 🟡 - Slash commands in the chat input.
 - [🪐 jupyter-ai-tools](https://github.com/jupyter-ai-contrib/jupyter-ai-tools) 🟢 - Tool implementations for agents working on notebooks and files.
 - [🪐 jupyter-ai-magic-commands](https://github.com/jupyter-ai-contrib/jupyter-ai-magic-commands) 🟢 - The v3 replacement for `jupyter-ai-magics`, built on LiteLLM.
-- [🪐 jupyter-ai-demos](https://github.com/jupyter-ai-contrib/jupyter-ai-demos) 🟢 - Notebooks and custom personas demonstrating what Jupyter AI v3 can do. Read the personas before writing your own.
+- [🪐 jupyter-ai-demos](https://github.com/jupyter-ai-contrib/jupyter-ai-demos) 🟡 - Notebooks and custom personas demonstrating what Jupyter AI v3 can do. Read the personas before writing your own.
 
 ### Chat and notebook UI
 
@@ -203,8 +203,8 @@ Plugins and libraries to build on. Few of them do anything on their own, and Jup
 - [🪐 jupyterlab-cell-input-footer](https://github.com/jupyter-ai-contrib/jupyterlab-cell-input-footer) 🟡 - A place under a cell input to put your own UI.
 - [🪐 jupyterlab-ai-commands](https://github.com/jupyter-ai-contrib/jupyterlab-ai-commands) 🟢 - JupyterLab commands written for agents to call.
 - [🪐 jupyterlab-commands-toolkit](https://github.com/jupyter-ai-contrib/jupyterlab-commands-toolkit) 🟢 - Exposes the JupyterLab command registry as an AI toolkit.
-- [🪐 jupyterlab-notebook-awareness](https://github.com/jupyter-ai-contrib/jupyterlab-notebook-awareness) 🟢 - Publishes the current notebook and the active cell into the awareness state, so an agent can read where the cursor is.
-- [🪐 jupyterlab-document-collaborators](https://github.com/jupyter-ai-contrib/jupyterlab-document-collaborators) 🟢 - Shows who else has the document open, along the top of it.
+- [🪐 jupyterlab-notebook-awareness](https://github.com/jupyter-ai-contrib/jupyterlab-notebook-awareness) 🟡 - Publishes the current notebook and the active cell into the awareness state, so an agent can read where the cursor is.
+- [🪐 jupyterlab-document-collaborators](https://github.com/jupyter-ai-contrib/jupyterlab-document-collaborators) 🟡 - Shows who else has the document open, along the top of it.
 - [jupyterlab_voice_capture_extension](https://github.com/stellarshenson/jupyterlab_voice_capture_extension) 🟢 - Streams the browser microphone to a server side FIFO, so a CLI agent in a container can use voice mode.
 
 <table>
