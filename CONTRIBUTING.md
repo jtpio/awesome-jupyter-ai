@@ -16,24 +16,24 @@ What is deliberately left out:
 ## How to write the entry
 
 ```
-- [Name](https://github.com/owner/repo) `active` - What it adds, in one or two sentences.
+- [Name](https://github.com/owner/repo) 🟢 - What it adds, in one or two sentences.
 ```
 
 Say what the extension does for the person using it. "Adds an Explain button to the cell toolbar" tells the reader something. "AI-powered assistant leveraging LLMs" tells them nothing. Start the description with a capital letter and end it with a period. Keep it to two sentences.
 
-Do not put a date in an entry. The marker gives the age and the badges in the table are live, so a written date only goes stale. Dates belong in this file, next to the claim they support.
+Do not put a date in an entry. The dot gives the age and the badges in the At a glance table are live, so a written date only goes stale. Dates belong in this file, next to the claim they support.
 
 Put the entry in the section that matches what the extension does, and give it a marker from the date of the last commit ([Markers](#markers) has the method). Within a section, order is roughly active first and then by how much the project is used. Do not list a project twice, and do not link the same repository from two entries. A section has up to three screenshots or screencasts, and [Screenshots and screencasts](#screenshots-and-screencasts) has the rules for them.
 
 ## Markers
 
-The marker comes from the date of the last commit on the default branch:
+The marker is a coloured dot after the project name, and it comes from the date of the last commit on the default branch:
 
-| Marker | Last commit |
-| --- | --- |
-| `active` | Within 4 months |
-| `maintained` | Within 12 months |
-| `quiet` | 1 to 2 years ago |
+| Marker | Name | Last commit |
+| --- | --- | --- |
+| 🟢 | active | Within 4 months |
+| 🟡 | maintained | Within 12 months |
+| ⚪ | quiet | 1 to 2 years ago |
 
 Older than that, or archived, or the model service behind it is gone: the entry belongs in [HISTORICAL.md](HISTORICAL.md).
 
