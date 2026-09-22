@@ -193,7 +193,6 @@ Plugins and libraries to build on. Few of them do anything on their own, and Jup
 - [🪐 jupyter-ai-tools](https://github.com/jupyter-ai-contrib/jupyter-ai-tools) 🟢 - Tool implementations for agents working on notebooks and files.
 - [🪐 jupyter-ai-magic-commands](https://github.com/jupyter-ai-contrib/jupyter-ai-magic-commands) 🟢 - The v3 replacement for `jupyter-ai-magics`, built on LiteLLM.
 - [🪐 jupyter-ai-demos](https://github.com/jupyter-ai-contrib/jupyter-ai-demos) 🟢 - Notebooks and custom personas demonstrating what Jupyter AI v3 can do. Read the personas before writing your own.
-- [🪐 jupyter-ai-devrepo](https://github.com/jupyter-ai-contrib/jupyter-ai-devrepo) 🟡 - One clone that gives an editable install of every Jupyter AI subpackage.
 
 ### Chat and notebook UI
 
@@ -218,11 +217,11 @@ Plugins and libraries to build on. Few of them do anything on their own, and Jup
 
 An agent writes to the notebook file while you have it open. By default JupyterLab keeps showing the old cells as reloading the document could lose the widget state. These extensions instead update the open notebook when the file changes.
 
-- [jupyterlab-claude-code-refresh](https://github.com/wenatuhs/jupyterlab-claude-code-refresh) ⚪ - Reloads the open notebook from disk when Claude Code edits the file.
-- [hot-notebook-patching](https://github.com/kolibril13/hot-notebook-patching) 🟢 - Patches only the cells that changed, so the kernel keeps running and widgets keep their state. Written for notebooks edited by Claude Code.
+- [<img src="https://raw.githubusercontent.com/jupyter/design/main/logos/Favicon/favicon.svg" height="14" alt="Project Jupyter"> jupyter-collaboration](https://github.com/jupyterlab/jupyter-collaboration) 🟢 - Real time collaboration on Yjs. It is what lets two people, or a person and an agent, type into one notebook. Jupyter AI installs it under the `rtc` extra.
 - [🪐 jupyter-live-content](https://github.com/jupyter-ai-contrib/jupyter-live-content) 🟢 - Live file content updates, so the UI follows an agent editing on disk.
 - [🪐 jupyter-server-documents](https://github.com/jupyter-ai-contrib/jupyter-server-documents) 🟢 - Keeps document and kernel state on the server with pycrdt, for faster updates and lower memory. Jupyter AI installs it under the `rtc-jsd` extra.
-- [<img src="https://raw.githubusercontent.com/jupyter/design/main/logos/Favicon/favicon.svg" height="14" alt="Project Jupyter"> jupyter-collaboration](https://github.com/jupyterlab/jupyter-collaboration) 🟢 - Real time collaboration on Yjs. It is what lets two people, or a person and an agent, type into one notebook. Jupyter AI installs it under the `rtc` extra.
+- [hot-notebook-patching](https://github.com/kolibril13/hot-notebook-patching) 🟢 - Patches only the cells that changed, so the kernel keeps running and widgets keep their state. Written for notebooks edited by Claude Code.
+- [jupyterlab-claude-code-refresh](https://github.com/wenatuhs/jupyterlab-claude-code-refresh) ⚪ - Reloads the open notebook from disk when Claude Code edits the file.
 
 ### MCP
 
