@@ -165,13 +165,13 @@ Built for one scientific field, one classroom or one vendor platform.
 - [Xavier](https://github.com/CHI25-Xavier/Xavier) 🟡 - Research prototype from a CHI'25 paper on tabular data wrangling. It keeps the data in view while it suggests code. [Paper](https://doi.org/10.1145/3706598.3714239), [video](https://youtu.be/KTnCHSv1heI).
 - [Auto Dashboards](https://github.com/orbrx/auto-dashboards) 🟡 - Turns a notebook into a Streamlit, Dash or Solara dashboard and previews it beside the notebook.
 - [WWC Copilot](https://github.com/adamisom/jupyterlab-research-assistant-wwc-copilot) 🟡 - Academic research library with Semantic Scholar and OpenAlex import, PDF parsing and AI metadata extraction.
-- [LLM Attributor](https://github.com/poloclub/LLM-Attribution) ⚪ - Georgia Tech widget that attributes generated text back to training data.
+- [LLM Attributor](https://github.com/poloclub/LLM-Attributor) ⚪ - Georgia Tech widget that attributes generated text back to training data.
 - [hintbot](https://github.com/educational-technology-collective/hintbot) ⚪ - Asks for a hint on the current cell in a teaching setting, and logs the request.
 
 <table>
 <tr>
 <td width="33%"><a href="https://github.com/smartsbio/smarts-bio-jupyterlab"><img src="https://smarts-public.s3.us-east-1.amazonaws.com/jupyterlab/screenshot-structure-chat.png" alt="a protein structure answered in the chat"></a><br><sub><b>smarts.bio</b>: a protein structure answered in the chat</sub></td>
-<td width="33%"><a href="https://github.com/poloclub/LLM-Attribution"><img src="https://raw.githubusercontent.com/poloclub/LLM-Attributor/master/assets/crownjewel.png" alt="an answer traced back to the training data behind it"></a><br><sub><b>LLM Attributor</b>: an answer traced back to the training data behind it</sub></td>
+<td width="33%"><a href="https://github.com/poloclub/LLM-Attributor"><img src="https://raw.githubusercontent.com/poloclub/LLM-Attributor/master/assets/crownjewel.png" alt="an answer traced back to the training data behind it"></a><br><sub><b>LLM Attributor</b>: an answer traced back to the training data behind it</sub></td>
 <td width="33%"><a href="https://github.com/CHI25-Xavier/Xavier"><img src="https://raw.githubusercontent.com/CHI25-Xavier/Xavier/master/assets/UI_Overview.png" alt="data kept in view while code is suggested"></a><br><sub><b>Xavier</b>: data kept in view while code is suggested</sub></td>
 </tr>
 </table>
